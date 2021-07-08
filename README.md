@@ -8,7 +8,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/SobujKhanSK/RadioPlayerV2?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/SobujKhanSK/RadioPlayerV2?color=red)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/SobujKhanSK/RadioPlayerV2)
-![GitHub](https://img.shields.io/github/license/AsmSafone/RadioPlayerV2)
+![GitHub](https://img.shields.io/github/license/SobujKhanSK/RadioPlayerV2)
 [![Bot Support](https://img.shields.io/badge/Radio%20Player%20V2-support%20group-blue)](https://t.me/PremiumAppsAndModAppsFreeGroup)
 
 
