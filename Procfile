@@ -1,1 +1,1 @@
-Safone: python3 main.py
+Sobuj: python3 main.py
