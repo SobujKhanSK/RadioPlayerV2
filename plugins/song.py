@@ -1,6 +1,6 @@
 """
 RadioPlayerV2, Telegram Voice Chat Userbot
-Copyright (C) 2021  Asm Safone
+Copyright (C) 2021  Sobuj Khan
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -94,7 +94,7 @@ def a(client, message):
         m.delete()
         message.delete()
     except Exception as e:
-        m.edit('**An Error Occured. Please Report This To @SafoTheBot !!**')
+        m.edit('**An Error Occured. Please Report This To @PremiumAppsAndModAppsFreeGroup !!**')
         print(e)
     try:
         os.remove(audio_file)
