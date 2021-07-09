@@ -3,7 +3,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/SobujKhanSK/RadioPlayerV2?color=green&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/SobujKhanSK/RadioPlayerV2)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/SobujKhanSK/RadioPlayerV2)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/RJSobujKhan/RadioPlayerV2)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/SobujKhanSK/RadioPlayerV2)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/SobujKhanSK/RadioPlayerV2)
 ![GitHub contributors](https://img.shields.io/github/contributors/SobujKhanSK/RadioPlayerV2?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/SobujKhanSK/RadioPlayerV2?color=red)
