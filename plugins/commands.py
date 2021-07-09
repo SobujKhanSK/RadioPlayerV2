@@ -62,7 +62,7 @@ async def start(client, message):
     ],
     [
         InlineKeyboardButton('MORE BOTS', url='https://t.me/PremiumAppsAndModAppsFreeChannel'),
-        InlineKeyboardButton('SOURCE CODE', url='https://github.com/RJSobujKhan/RadioPlayerV2'),
+        InlineKeyboardButton('SOURCE CODE', url='https://github.com/SobujKhanSK/RadioPlayerV2'),
     ],
     [
         InlineKeyboardButton('⚙️ HELP ⚙️', callback_data='help'),
