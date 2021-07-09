@@ -13,7 +13,7 @@ RUN python -m pip install tgintegration youtube-dl youtube_search requests
 
 RUN wget -q https://github.com/SobujKhanSK/RadioPlayerV2/archive/sobuj.tar.gz && tar xf sobuj.tar.gz && rm sobuj.tar.gz
 
-WORKDIR /RadioPlayerV2-
+WORKDIR /RadioPlayerV2-sobuj
 CMD python3 main.py
 
 # docker build -t tgcalls .
